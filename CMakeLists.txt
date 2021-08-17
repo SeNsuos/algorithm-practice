@@ -41,3 +41,5 @@ add_executable(ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof src/leetcode/editor/cn/ba
 add_executable(spiral-matrix-ii src/leetcode/editor/cn/spiral-matrix-ii.cpp)
 add_executable(student-attendance-record-i src/leetcode/editor/cn/student-attendance-record-i.cpp)
 add_executable(longest-common-prefix src/leetcode/editor/cn/longest-common-prefix.cpp)
+add_executable(shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof src/leetcode/editor/cn/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.cpp)
+add_executable(shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof src/leetcode/editor/cn/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.cpp)

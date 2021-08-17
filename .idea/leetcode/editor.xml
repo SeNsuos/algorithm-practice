@@ -220,6 +220,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.cpp" />
+              <option name="questionId" value="100321" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.cpp" />
+              <option name="questionId" value="100320" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.cpp">
           <value>
             <LeetcodeEditor>
