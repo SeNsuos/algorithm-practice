@@ -38,7 +38,22 @@ using namespace std;
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+        int ans = 0;
+        for(int i = 0;i < 32; ++i) {//计算二进制的每一位
 
+        int sum = 0;
+        for(int& num : nums) //计算每个数在二进制的同一位上的贡献
+            sum += (num >> i) & 1;
+        if(sum%3) //出现1，则要还原到原位
+            ans|= 1 << i;
+        }
+        return ans;
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)
+
+int main() {
+    Solution* solution = new Solution();
+    vector<int> vec{9,1,7,9,7,9,7};
+    cout << solution->singleNumber(vec) << endl;
+}

@@ -19,6 +19,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/climbing-stairs.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/climbing-stairs.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/climbing-stairs.cpp" />
+              <option name="questionId" value="70" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.cpp">
           <value>
             <LeetcodeEditor>
@@ -88,6 +97,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/fei-bo-na-qi-shu-lie-lcof.cpp" />
               <option name="questionId" value="100274" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/fibonacci-number.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/fibonacci-number.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/fibonacci-number.cpp" />
+              <option name="questionId" value="1013" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -196,6 +214,33 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/min-cost-climbing-stairs.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/min-cost-climbing-stairs.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/min-cost-climbing-stairs.cpp" />
+              <option name="questionId" value="747" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/n-th-tribonacci-number.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/n-th-tribonacci-number.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/n-th-tribonacci-number.cpp" />
+              <option name="questionId" value="1236" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/number-of-submatrices-that-sum-to-target.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/number-of-submatrices-that-sum-to-target.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/number-of-submatrices-that-sum-to-target.cpp" />
+              <option name="questionId" value="1145" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/qing-wa-tiao-tai-jie-wen-ti-lcof.cpp">
           <value>
             <LeetcodeEditor>
@@ -209,6 +254,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/que-shi-de-shu-zi-lcof.cpp" />
               <option name="questionId" value="100331" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/reverse-vowels-of-a-string.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/reverse-vowels-of-a-string.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/reverse-vowels-of-a-string.cpp" />
+              <option name="questionId" value="345" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -261,6 +315,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/student-attendance-record-i.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/student-attendance-record-i.cpp" />
               <option name="questionId" value="551" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/student-attendance-record-ii.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/student-attendance-record-ii.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/student-attendance-record-ii.cpp" />
+              <option name="questionId" value="552" />
             </LeetcodeEditor>
           </value>
         </entry>
