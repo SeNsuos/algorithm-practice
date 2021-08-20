@@ -49,3 +49,4 @@ add_executable(n-th-tribonacci-number src/leetcode/editor/cn/n-th-tribonacci-num
 add_executable(climbing-stairs src/leetcode/editor/cn/climbing-stairs.cpp)
 add_executable(min-cost-climbing-stairs src/leetcode/editor/cn/min-cost-climbing-stairs.cpp)
 add_executable(reverse-vowels-of-a-string src/leetcode/editor/cn/reverse-vowels-of-a-string.cpp)
+add_executable(reverse-string-ii src/leetcode/editor/cn/reverse-string-ii.cpp)

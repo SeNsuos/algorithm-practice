@@ -257,6 +257,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/reverse-string-ii.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/reverse-string-ii.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/reverse-string-ii.cpp" />
+              <option name="questionId" value="541" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/reverse-vowels-of-a-string.cpp">
           <value>
             <LeetcodeEditor>
