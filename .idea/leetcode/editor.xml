@@ -84,6 +84,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/escape-the-ghosts.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/escape-the-ghosts.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/escape-the-ghosts.cpp" />
+              <option name="questionId" value="805" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/fan-zhuan-lian-biao-lcof.cpp">
           <value>
             <LeetcodeEditor>
@@ -130,6 +139,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/fu-za-lian-biao-de-fu-zhi-lcof.cpp" />
               <option name="questionId" value="100300" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/get-maximum-in-generated-array.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/get-maximum-in-generated-array.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/get-maximum-in-generated-array.cpp" />
+              <option name="questionId" value="1769" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -315,6 +333,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/spiral-matrix-ii.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/spiral-matrix-ii.cpp" />
               <option name="questionId" value="59" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/string-compression.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/string-compression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/string-compression.cpp" />
+              <option name="questionId" value="443" />
             </LeetcodeEditor>
           </value>
         </entry>
